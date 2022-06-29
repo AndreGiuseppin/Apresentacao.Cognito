@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apresentacao.Cognito", "Apresentacao.Cognito.csproj", "{D87969E3-03BE-447C-977D-244608834611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D87969E3-03BE-447C-977D-244608834611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87969E3-03BE-447C-977D-244608834611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87969E3-03BE-447C-977D-244608834611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87969E3-03BE-447C-977D-244608834611}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47DEB41D-333C-4655-9FAC-39001B58DDB5}
+	EndGlobalSection
+EndGlobal
